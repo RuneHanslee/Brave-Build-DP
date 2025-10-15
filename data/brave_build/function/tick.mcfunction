@@ -23,7 +23,6 @@ execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:crossbow"}}] run at
 execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:crossbow"}}] run attribute @s minecraft:sneaking_speed base set 0.6
 
 execute as @a[team=Elytrian] if score @s bowShots > @s bowShotsLast run effect give @s minecraft:speed 3 1 true
-execute as @a[team=Elytrian] if score @s bowShots > @s bowShotsLast run effect give @s minecraft:absorbtion 3 2 true
 
 execute as @a[team=Elytrian] if score @s bowShots > @s bowShotsLast at @s run particle minecraft:ominous_spawning ~ ~0.8 ~ 0.6 0.6 0.6 0.1 12 normal @a
 
