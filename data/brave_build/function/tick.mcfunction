@@ -11,13 +11,13 @@ execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:iron_sword"}}] run 
 execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:golden_sword"}}] run attribute @s minecraft:attack_speed base set 3
 execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:diamond_sword"}}] run attribute @s minecraft:attack_speed base set 3
 execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:netherite_sword"}}] run attribute @s minecraft:attack_speed base set 3
-execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:wooden_axe"}}] run attribute @s minecraft:attack_speed base set 3.2
-execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:copper_axe"}}] run attribute @s minecraft:attack_speed base set 3.2
-execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:stone_axe"}}] run attribute @s minecraft:attack_speed base set 3.2
-execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:iron_axe"}}] run attribute @s minecraft:attack_speed base set 3.2
-execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:golden_axe"}}] run attribute @s minecraft:attack_speed base set 3.2
-execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:diamond_axe"}}] run attribute @s minecraft:attack_speed base set 3.2
-execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:netherite_axe"}}] run attribute @s minecraft:attack_speed base set 3.2
+execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:wooden_axe"}}] run attribute @s minecraft:attack_speed base set 3.4
+execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:copper_axe"}}] run attribute @s minecraft:attack_speed base set 3.4
+execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:stone_axe"}}] run attribute @s minecraft:attack_speed base set 3.4
+execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:iron_axe"}}] run attribute @s minecraft:attack_speed base set 3.4
+execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:golden_axe"}}] run attribute @s minecraft:attack_speed base set 3.4
+execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:diamond_axe"}}] run attribute @s minecraft:attack_speed base set 3.4
+execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:netherite_axe"}}] run attribute @s minecraft:attack_speed base set 3.4
 
 execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:crossbow"}}] run attribute @s minecraft:movement_speed base set 0.13
 execute as @a[team=Elytrian,nbt={SelectedItem:{id:"minecraft:crossbow"}}] run attribute @s minecraft:sneaking_speed base set 0.6
