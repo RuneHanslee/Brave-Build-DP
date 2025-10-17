@@ -21,7 +21,7 @@ execute as @a[team=Human] run attribute @s minecraft:armor_toughness base reset
 
 
 
-execute as @a[team=Hobbit] run attribute @s minecraft:scale base set 0.8
+execute as @a[team=Hobbit] run attribute @s minecraft:scale base set 0.7
 execute as @a[team=Hobbit] run attribute @s minecraft:max_health base set 20
 execute as @a[team=Hobbit] run attribute @s minecraft:movement_speed base set 0.11
 execute as @a[team=Hobbit] run attribute @s minecraft:block_interaction_range base set 5
